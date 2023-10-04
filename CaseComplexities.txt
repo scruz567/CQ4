@@ -1,0 +1,10 @@
+Camel Case
+Time Complexity: O(n)
+Linear function as there is only 1 for-loop in the entire function.
+Space Complexity: O(1)
+
+Correctness & Loop Invariant
+Time Complexity: O(log n) 
+Nested for-loop takes up most time in this function
+
+Space Complexity: O(1)
