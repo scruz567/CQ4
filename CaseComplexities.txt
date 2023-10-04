@@ -5,6 +5,6 @@ Space Complexity: O(1)
 
 Correctness & Loop Invariant
 Time Complexity: O(log n) 
-Nested for-loop takes up most time in this function
+Nested loop takes up most time in this function
 
 Space Complexity: O(1)
